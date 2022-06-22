@@ -54,6 +54,8 @@ build CMakeFiles/poj1163.dir/Poj/poj1163.cpp.obj: CXX_COMPILER__poj1163_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\poj1163.dir
   OBJECT_FILE_DIR = CMakeFiles\poj1163.dir\Poj
+  TARGET_COMPILE_PDB = CMakeFiles\poj1163.dir\
+  TARGET_PDB = poj1163.pdb
 
 
 # =============================================================================
@@ -69,9 +71,10 @@ build poj1163.exe: CXX_EXECUTABLE_LINKER__poj1163_Debug CMakeFiles/poj1163.dir/P
   OBJECT_DIR = CMakeFiles\poj1163.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\poj1163.dir\
   TARGET_FILE = poj1163.exe
   TARGET_IMPLIB = libpoj1163.dll.a
-  TARGET_PDB = poj1163.exe.dbg
+  TARGET_PDB = poj1163.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0895
@@ -87,6 +90,8 @@ build CMakeFiles/aw0895.dir/AcWing/aw0895.cpp.obj: CXX_COMPILER__aw0895_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0895.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0895.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0895.dir\
+  TARGET_PDB = aw0895.pdb
 
 
 # =============================================================================
@@ -102,9 +107,10 @@ build aw0895.exe: CXX_EXECUTABLE_LINKER__aw0895_Debug CMakeFiles/aw0895.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0895.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0895.dir\
   TARGET_FILE = aw0895.exe
   TARGET_IMPLIB = libaw0895.dll.a
-  TARGET_PDB = aw0895.exe.dbg
+  TARGET_PDB = aw0895.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test02
@@ -120,6 +126,8 @@ build CMakeFiles/test02.dir/ACM/test02.cpp.obj: CXX_COMPILER__test02_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\test02.dir
   OBJECT_FILE_DIR = CMakeFiles\test02.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\test02.dir\
+  TARGET_PDB = test02.pdb
 
 
 # =============================================================================
@@ -135,9 +143,10 @@ build test02.exe: CXX_EXECUTABLE_LINKER__test02_Debug CMakeFiles/test02.dir/ACM/
   OBJECT_DIR = CMakeFiles\test02.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\test02.dir\
   TARGET_FILE = test02.exe
   TARGET_IMPLIB = libtest02.dll.a
-  TARGET_PDB = test02.exe.dbg
+  TARGET_PDB = test02.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target oj1782
@@ -153,6 +162,8 @@ build CMakeFiles/oj1782.dir/ACM/oj1782.cpp.obj: CXX_COMPILER__oj1782_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\oj1782.dir
   OBJECT_FILE_DIR = CMakeFiles\oj1782.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\oj1782.dir\
+  TARGET_PDB = oj1782.pdb
 
 
 # =============================================================================
@@ -168,9 +179,10 @@ build oj1782.exe: CXX_EXECUTABLE_LINKER__oj1782_Debug CMakeFiles/oj1782.dir/ACM/
   OBJECT_DIR = CMakeFiles\oj1782.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\oj1782.dir\
   TARGET_FILE = oj1782.exe
   TARGET_IMPLIB = liboj1782.dll.a
-  TARGET_PDB = oj1782.exe.dbg
+  TARGET_PDB = oj1782.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1100
@@ -186,6 +198,8 @@ build CMakeFiles/aw1100.dir/AcWing/aw1100.cpp.obj: CXX_COMPILER__aw1100_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1100.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1100.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1100.dir\
+  TARGET_PDB = aw1100.pdb
 
 
 # =============================================================================
@@ -201,9 +215,10 @@ build aw1100.exe: CXX_EXECUTABLE_LINKER__aw1100_Debug CMakeFiles/aw1100.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1100.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1100.dir\
   TARGET_FILE = aw1100.exe
   TARGET_IMPLIB = libaw1100.dll.a
-  TARGET_PDB = aw1100.exe.dbg
+  TARGET_PDB = aw1100.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0099
@@ -219,6 +234,8 @@ build CMakeFiles/aw0099.dir/AcWing/aw0099.cpp.obj: CXX_COMPILER__aw0099_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0099.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0099.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0099.dir\
+  TARGET_PDB = aw0099.pdb
 
 
 # =============================================================================
@@ -234,9 +251,10 @@ build aw0099.exe: CXX_EXECUTABLE_LINKER__aw0099_Debug CMakeFiles/aw0099.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0099.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0099.dir\
   TARGET_FILE = aw0099.exe
   TARGET_IMPLIB = libaw0099.dll.a
-  TARGET_PDB = aw0099.exe.dbg
+  TARGET_PDB = aw0099.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test01
@@ -252,6 +270,8 @@ build CMakeFiles/test01.dir/ACM/test01.cpp.obj: CXX_COMPILER__test01_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\test01.dir
   OBJECT_FILE_DIR = CMakeFiles\test01.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\test01.dir\
+  TARGET_PDB = test01.pdb
 
 
 # =============================================================================
@@ -267,9 +287,10 @@ build test01.exe: CXX_EXECUTABLE_LINKER__test01_Debug CMakeFiles/test01.dir/ACM/
   OBJECT_DIR = CMakeFiles\test01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\test01.dir\
   TARGET_FILE = test01.exe
   TARGET_IMPLIB = libtest01.dll.a
-  TARGET_PDB = test01.exe.dbg
+  TARGET_PDB = test01.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1097
@@ -285,6 +306,8 @@ build CMakeFiles/aw1097.dir/AcWing/aw1097.cpp.obj: CXX_COMPILER__aw1097_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1097.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1097.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1097.dir\
+  TARGET_PDB = aw1097.pdb
 
 
 # =============================================================================
@@ -300,9 +323,10 @@ build aw1097.exe: CXX_EXECUTABLE_LINKER__aw1097_Debug CMakeFiles/aw1097.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1097.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1097.dir\
   TARGET_FILE = aw1097.exe
   TARGET_IMPLIB = libaw1097.dll.a
-  TARGET_PDB = aw1097.exe.dbg
+  TARGET_PDB = aw1097.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1098
@@ -318,6 +342,8 @@ build CMakeFiles/aw1098.dir/AcWing/aw1098.cpp.obj: CXX_COMPILER__aw1098_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1098.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1098.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1098.dir\
+  TARGET_PDB = aw1098.pdb
 
 
 # =============================================================================
@@ -333,9 +359,10 @@ build aw1098.exe: CXX_EXECUTABLE_LINKER__aw1098_Debug CMakeFiles/aw1098.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1098.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1098.dir\
   TARGET_FILE = aw1098.exe
   TARGET_IMPLIB = libaw1098.dll.a
-  TARGET_PDB = aw1098.exe.dbg
+  TARGET_PDB = aw1098.pdb
 
 
 #############################################
@@ -363,6 +390,8 @@ build CMakeFiles/aw1106.dir/AcWing/aw1106.cpp.obj: CXX_COMPILER__aw1106_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1106.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1106.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1106.dir\
+  TARGET_PDB = aw1106.pdb
 
 
 # =============================================================================
@@ -378,9 +407,10 @@ build aw1106.exe: CXX_EXECUTABLE_LINKER__aw1106_Debug CMakeFiles/aw1106.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1106.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1106.dir\
   TARGET_FILE = aw1106.exe
   TARGET_IMPLIB = libaw1106.dll.a
-  TARGET_PDB = aw1106.exe.dbg
+  TARGET_PDB = aw1106.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0423
@@ -396,6 +426,8 @@ build CMakeFiles/aw0423.dir/AcWing/aw0423.cpp.obj: CXX_COMPILER__aw0423_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0423.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0423.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0423.dir\
+  TARGET_PDB = aw0423.pdb
 
 
 # =============================================================================
@@ -411,9 +443,10 @@ build aw0423.exe: CXX_EXECUTABLE_LINKER__aw0423_Debug CMakeFiles/aw0423.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0423.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0423.dir\
   TARGET_FILE = aw0423.exe
   TARGET_IMPLIB = libaw0423.dll.a
-  TARGET_PDB = aw0423.exe.dbg
+  TARGET_PDB = aw0423.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1015
@@ -429,6 +462,8 @@ build CMakeFiles/aw1015.dir/AcWing/aw1015.cpp.obj: CXX_COMPILER__aw1015_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1015.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1015.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1015.dir\
+  TARGET_PDB = aw1015.pdb
 
 
 # =============================================================================
@@ -444,9 +479,10 @@ build aw1015.exe: CXX_EXECUTABLE_LINKER__aw1015_Debug CMakeFiles/aw1015.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1015.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1015.dir\
   TARGET_FILE = aw1015.exe
   TARGET_IMPLIB = libaw1015.dll.a
-  TARGET_PDB = aw1015.exe.dbg
+  TARGET_PDB = aw1015.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1018
@@ -462,6 +498,8 @@ build CMakeFiles/aw1018.dir/AcWing/aw1018.cpp.obj: CXX_COMPILER__aw1018_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1018.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1018.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1018.dir\
+  TARGET_PDB = aw1018.pdb
 
 
 # =============================================================================
@@ -477,9 +515,10 @@ build aw1018.exe: CXX_EXECUTABLE_LINKER__aw1018_Debug CMakeFiles/aw1018.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1018.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1018.dir\
   TARGET_FILE = aw1018.exe
   TARGET_IMPLIB = libaw1018.dll.a
-  TARGET_PDB = aw1018.exe.dbg
+  TARGET_PDB = aw1018.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1292
@@ -495,6 +534,8 @@ build CMakeFiles/aw1292.dir/AcWing/aw1292.cpp.obj: CXX_COMPILER__aw1292_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1292.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1292.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1292.dir\
+  TARGET_PDB = aw1292.pdb
 
 
 # =============================================================================
@@ -510,9 +551,10 @@ build aw1292.exe: CXX_EXECUTABLE_LINKER__aw1292_Debug CMakeFiles/aw1292.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1292.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1292.dir\
   TARGET_FILE = aw1292.exe
   TARGET_IMPLIB = libaw1292.dll.a
-  TARGET_PDB = aw1292.exe.dbg
+  TARGET_PDB = aw1292.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1017
@@ -528,6 +570,8 @@ build CMakeFiles/aw1017.dir/AcWing/aw1017.cpp.obj: CXX_COMPILER__aw1017_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1017.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1017.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1017.dir\
+  TARGET_PDB = aw1017.pdb
 
 
 # =============================================================================
@@ -543,9 +587,10 @@ build aw1017.exe: CXX_EXECUTABLE_LINKER__aw1017_Debug CMakeFiles/aw1017.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1017.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1017.dir\
   TARGET_FILE = aw1017.exe
   TARGET_IMPLIB = libaw1017.dll.a
-  TARGET_PDB = aw1017.exe.dbg
+  TARGET_PDB = aw1017.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0802
@@ -561,6 +606,8 @@ build CMakeFiles/aw0802.dir/AcWing/aw0802.cpp.obj: CXX_COMPILER__aw0802_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0802.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0802.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0802.dir\
+  TARGET_PDB = aw0802.pdb
 
 
 # =============================================================================
@@ -576,9 +623,10 @@ build aw0802.exe: CXX_EXECUTABLE_LINKER__aw0802_Debug CMakeFiles/aw0802.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0802.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0802.dir\
   TARGET_FILE = aw0802.exe
   TARGET_IMPLIB = libaw0802.dll.a
-  TARGET_PDB = aw0802.exe.dbg
+  TARGET_PDB = aw0802.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Main
@@ -594,6 +642,8 @@ build CMakeFiles/Main.dir/ACM/Main.cpp.obj: CXX_COMPILER__Main_Debug D$:/ClionPr
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Main.dir
   OBJECT_FILE_DIR = CMakeFiles\Main.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\Main.dir\
+  TARGET_PDB = Main.pdb
 
 
 # =============================================================================
@@ -609,9 +659,10 @@ build Main.exe: CXX_EXECUTABLE_LINKER__Main_Debug CMakeFiles/Main.dir/ACM/Main.c
   OBJECT_DIR = CMakeFiles\Main.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\Main.dir\
   TARGET_FILE = Main.exe
   TARGET_IMPLIB = libMain.dll.a
-  TARGET_PDB = Main.exe.dbg
+  TARGET_PDB = Main.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test03
@@ -627,6 +678,8 @@ build CMakeFiles/test03.dir/ACM/test03.cpp.obj: CXX_COMPILER__test03_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\test03.dir
   OBJECT_FILE_DIR = CMakeFiles\test03.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
+  TARGET_PDB = test03.pdb
 
 
 # =============================================================================
@@ -642,9 +695,10 @@ build test03.exe: CXX_EXECUTABLE_LINKER__test03_Debug CMakeFiles/test03.dir/ACM/
   OBJECT_DIR = CMakeFiles\test03.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\test03.dir\
   TARGET_FILE = test03.exe
   TARGET_IMPLIB = libtest03.dll.a
-  TARGET_PDB = test03.exe.dbg
+  TARGET_PDB = test03.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1290
@@ -660,6 +714,8 @@ build CMakeFiles/p1290.dir/AcWing/p1290.cpp.obj: CXX_COMPILER__p1290_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\p1290.dir
   OBJECT_FILE_DIR = CMakeFiles\p1290.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\p1290.dir\
+  TARGET_PDB = p1290.pdb
 
 
 # =============================================================================
@@ -675,9 +731,10 @@ build p1290.exe: CXX_EXECUTABLE_LINKER__p1290_Debug CMakeFiles/p1290.dir/AcWing/
   OBJECT_DIR = CMakeFiles\p1290.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\p1290.dir\
   TARGET_FILE = p1290.exe
   TARGET_IMPLIB = libp1290.dll.a
-  TARGET_PDB = p1290.exe.dbg
+  TARGET_PDB = p1290.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1289
@@ -693,6 +750,8 @@ build CMakeFiles/aw1289.dir/AcWing/aw1289.cpp.obj: CXX_COMPILER__aw1289_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1289.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1289.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1289.dir\
+  TARGET_PDB = aw1289.pdb
 
 
 # =============================================================================
@@ -708,9 +767,10 @@ build aw1289.exe: CXX_EXECUTABLE_LINKER__aw1289_Debug CMakeFiles/aw1289.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1289.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1289.dir\
   TARGET_FILE = aw1289.exe
   TARGET_IMPLIB = libaw1289.dll.a
-  TARGET_PDB = aw1289.exe.dbg
+  TARGET_PDB = aw1289.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1076
@@ -726,6 +786,8 @@ build CMakeFiles/aw1076.dir/AcWing/aw1076.cpp.obj: CXX_COMPILER__aw1076_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1076.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1076.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1076.dir\
+  TARGET_PDB = aw1076.pdb
 
 
 # =============================================================================
@@ -741,9 +803,10 @@ build aw1076.exe: CXX_EXECUTABLE_LINKER__aw1076_Debug CMakeFiles/aw1076.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1076.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1076.dir\
   TARGET_FILE = aw1076.exe
   TARGET_IMPLIB = libaw1076.dll.a
-  TARGET_PDB = aw1076.exe.dbg
+  TARGET_PDB = aw1076.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1014
@@ -759,6 +822,8 @@ build CMakeFiles/aw1014.dir/AcWing/aw1014.cpp.obj: CXX_COMPILER__aw1014_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1014.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1014.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1014.dir\
+  TARGET_PDB = aw1014.pdb
 
 
 # =============================================================================
@@ -774,9 +839,10 @@ build aw1014.exe: CXX_EXECUTABLE_LINKER__aw1014_Debug CMakeFiles/aw1014.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1014.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1014.dir\
   TARGET_FILE = aw1014.exe
   TARGET_IMPLIB = libaw1014.dll.a
-  TARGET_PDB = aw1014.exe.dbg
+  TARGET_PDB = aw1014.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0797
@@ -792,6 +858,8 @@ build CMakeFiles/aw0797.dir/AcWing/aw0797.cpp.obj: CXX_COMPILER__aw0797_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0797.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0797.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0797.dir\
+  TARGET_PDB = aw0797.pdb
 
 
 # =============================================================================
@@ -807,9 +875,10 @@ build aw0797.exe: CXX_EXECUTABLE_LINKER__aw0797_Debug CMakeFiles/aw0797.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0797.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0797.dir\
   TARGET_FILE = aw0797.exe
   TARGET_IMPLIB = libaw0797.dll.a
-  TARGET_PDB = aw0797.exe.dbg
+  TARGET_PDB = aw0797.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p4913
@@ -825,6 +894,8 @@ build CMakeFiles/p4913.dir/ACM/p4913.cpp.obj: CXX_COMPILER__p4913_Debug D$:/Clio
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\p4913.dir
   OBJECT_FILE_DIR = CMakeFiles\p4913.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\p4913.dir\
+  TARGET_PDB = p4913.pdb
 
 
 # =============================================================================
@@ -840,9 +911,10 @@ build p4913.exe: CXX_EXECUTABLE_LINKER__p4913_Debug CMakeFiles/p4913.dir/ACM/p49
   OBJECT_DIR = CMakeFiles\p4913.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\p4913.dir\
   TARGET_FILE = p4913.exe
   TARGET_IMPLIB = libp4913.dll.a
-  TARGET_PDB = p4913.exe.dbg
+  TARGET_PDB = p4913.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1305
@@ -858,6 +930,8 @@ build CMakeFiles/p1305.dir/ACM/p1305.cpp.obj: CXX_COMPILER__p1305_Debug D$:/Clio
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\p1305.dir
   OBJECT_FILE_DIR = CMakeFiles\p1305.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\p1305.dir\
+  TARGET_PDB = p1305.pdb
 
 
 # =============================================================================
@@ -873,9 +947,10 @@ build p1305.exe: CXX_EXECUTABLE_LINKER__p1305_Debug CMakeFiles/p1305.dir/ACM/p13
   OBJECT_DIR = CMakeFiles\p1305.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\p1305.dir\
   TARGET_FILE = p1305.exe
   TARGET_IMPLIB = libp1305.dll.a
-  TARGET_PDB = p1305.exe.dbg
+  TARGET_PDB = p1305.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1290
@@ -891,6 +966,8 @@ build CMakeFiles/aw1290.dir/AcWing/aw1290.cpp.obj: CXX_COMPILER__aw1290_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1290.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1290.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1290.dir\
+  TARGET_PDB = aw1290.pdb
 
 
 # =============================================================================
@@ -906,9 +983,10 @@ build aw1290.exe: CXX_EXECUTABLE_LINKER__aw1290_Debug CMakeFiles/aw1290.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1290.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1290.dir\
   TARGET_FILE = aw1290.exe
   TARGET_IMPLIB = libaw1290.dll.a
-  TARGET_PDB = aw1290.exe.dbg
+  TARGET_PDB = aw1290.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1293
@@ -924,6 +1002,8 @@ build CMakeFiles/aw1293.dir/AcWing/aw1293.cpp.obj: CXX_COMPILER__aw1293_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1293.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1293.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1293.dir\
+  TARGET_PDB = aw1293.pdb
 
 
 # =============================================================================
@@ -939,9 +1019,10 @@ build aw1293.exe: CXX_EXECUTABLE_LINKER__aw1293_Debug CMakeFiles/aw1293.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1293.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1293.dir\
   TARGET_FILE = aw1293.exe
   TARGET_IMPLIB = libaw1293.dll.a
-  TARGET_PDB = aw1293.exe.dbg
+  TARGET_PDB = aw1293.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target wa0242
@@ -957,6 +1038,8 @@ build CMakeFiles/wa0242.dir/AcWing/aw0242.cpp.obj: CXX_COMPILER__wa0242_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\wa0242.dir
   OBJECT_FILE_DIR = CMakeFiles\wa0242.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\wa0242.dir\
+  TARGET_PDB = wa0242.pdb
 
 
 # =============================================================================
@@ -972,9 +1055,10 @@ build wa0242.exe: CXX_EXECUTABLE_LINKER__wa0242_Debug CMakeFiles/wa0242.dir/AcWi
   OBJECT_DIR = CMakeFiles\wa0242.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\wa0242.dir\
   TARGET_FILE = wa0242.exe
   TARGET_IMPLIB = libwa0242.dll.a
-  TARGET_PDB = wa0242.exe.dbg
+  TARGET_PDB = wa0242.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target p1144
@@ -990,6 +1074,8 @@ build CMakeFiles/p1144.dir/Luogu/p1144.cpp.obj: CXX_COMPILER__p1144_Debug D$:/Cl
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\p1144.dir
   OBJECT_FILE_DIR = CMakeFiles\p1144.dir\Luogu
+  TARGET_COMPILE_PDB = CMakeFiles\p1144.dir\
+  TARGET_PDB = p1144.pdb
 
 
 # =============================================================================
@@ -1005,9 +1091,10 @@ build p1144.exe: CXX_EXECUTABLE_LINKER__p1144_Debug CMakeFiles/p1144.dir/Luogu/p
   OBJECT_DIR = CMakeFiles\p1144.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\p1144.dir\
   TARGET_FILE = p1144.exe
   TARGET_IMPLIB = libp1144.dll.a
-  TARGET_PDB = p1144.exe.dbg
+  TARGET_PDB = p1144.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0196
@@ -1023,6 +1110,8 @@ build CMakeFiles/aw0196.dir/AcWing/aw0196.cpp.obj: CXX_COMPILER__aw0196_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0196.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0196.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0196.dir\
+  TARGET_PDB = aw0196.pdb
 
 
 # =============================================================================
@@ -1038,9 +1127,10 @@ build aw0196.exe: CXX_EXECUTABLE_LINKER__aw0196_Debug CMakeFiles/aw0196.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0196.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0196.dir\
   TARGET_FILE = aw0196.exe
   TARGET_IMPLIB = libaw0196.dll.a
-  TARGET_PDB = aw0196.exe.dbg
+  TARGET_PDB = aw0196.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0154
@@ -1056,6 +1146,8 @@ build CMakeFiles/aw0154.dir/AcWing/aw0154.cpp.obj: CXX_COMPILER__aw0154_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0154.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0154.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0154.dir\
+  TARGET_PDB = aw0154.pdb
 
 
 # =============================================================================
@@ -1071,9 +1163,10 @@ build aw0154.exe: CXX_EXECUTABLE_LINKER__aw0154_Debug CMakeFiles/aw0154.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0154.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0154.dir\
   TARGET_FILE = aw0154.exe
   TARGET_IMPLIB = libaw0154.dll.a
-  TARGET_PDB = aw0154.exe.dbg
+  TARGET_PDB = aw0154.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0188
@@ -1089,6 +1182,8 @@ build CMakeFiles/aw0188.dir/AcWing/aw0188.cpp.obj: CXX_COMPILER__aw0188_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0188.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0188.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0188.dir\
+  TARGET_PDB = aw0188.pdb
 
 
 # =============================================================================
@@ -1104,9 +1199,10 @@ build aw0188.exe: CXX_EXECUTABLE_LINKER__aw0188_Debug CMakeFiles/aw0188.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0188.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0188.dir\
   TARGET_FILE = aw0188.exe
   TARGET_IMPLIB = libaw0188.dll.a
-  TARGET_PDB = aw0188.exe.dbg
+  TARGET_PDB = aw0188.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1116
@@ -1122,6 +1218,8 @@ build CMakeFiles/aw1116.dir/AcWing/aw1116.cpp.obj: CXX_COMPILER__aw1116_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1116.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1116.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1116.dir\
+  TARGET_PDB = aw1116.pdb
 
 
 # =============================================================================
@@ -1137,9 +1235,10 @@ build aw1116.exe: CXX_EXECUTABLE_LINKER__aw1116_Debug CMakeFiles/aw1116.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1116.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1116.dir\
   TARGET_FILE = aw1116.exe
   TARGET_IMPLIB = libaw1116.dll.a
-  TARGET_PDB = aw1116.exe.dbg
+  TARGET_PDB = aw1116.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1024
@@ -1155,6 +1254,8 @@ build CMakeFiles/aw1024.dir/AcWing/aw1024.cpp.obj: CXX_COMPILER__aw1024_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1024.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1024.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1024.dir\
+  TARGET_PDB = aw1024.pdb
 
 
 # =============================================================================
@@ -1170,9 +1271,10 @@ build aw1024.exe: CXX_EXECUTABLE_LINKER__aw1024_Debug CMakeFiles/aw1024.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1024.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1024.dir\
   TARGET_FILE = aw1024.exe
   TARGET_IMPLIB = libaw1024.dll.a
-  TARGET_PDB = aw1024.exe.dbg
+  TARGET_PDB = aw1024.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1022
@@ -1188,6 +1290,8 @@ build CMakeFiles/aw1022.dir/AcWing/aw1022.cpp.obj: CXX_COMPILER__aw1022_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1022.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1022.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1022.dir\
+  TARGET_PDB = aw1022.pdb
 
 
 # =============================================================================
@@ -1203,9 +1307,10 @@ build aw1022.exe: CXX_EXECUTABLE_LINKER__aw1022_Debug CMakeFiles/aw1022.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1022.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1022.dir\
   TARGET_FILE = aw1022.exe
   TARGET_IMPLIB = libaw1022.dll.a
-  TARGET_PDB = aw1022.exe.dbg
+  TARGET_PDB = aw1022.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0241
@@ -1221,6 +1326,8 @@ build CMakeFiles/aw0241.dir/AcWing/aw0241.cpp.obj: CXX_COMPILER__aw0241_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0241.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0241.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0241.dir\
+  TARGET_PDB = aw0241.pdb
 
 
 # =============================================================================
@@ -1236,9 +1343,10 @@ build aw0241.exe: CXX_EXECUTABLE_LINKER__aw0241_Debug CMakeFiles/aw0241.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0241.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0241.dir\
   TARGET_FILE = aw0241.exe
   TARGET_IMPLIB = libaw0241.dll.a
-  TARGET_PDB = aw0241.exe.dbg
+  TARGET_PDB = aw0241.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0242
@@ -1254,6 +1362,8 @@ build CMakeFiles/aw0242.dir/AcWing/aw0242.cpp.obj: CXX_COMPILER__aw0242_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0242.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0242.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0242.dir\
+  TARGET_PDB = aw0242.pdb
 
 
 # =============================================================================
@@ -1269,9 +1379,10 @@ build aw0242.exe: CXX_EXECUTABLE_LINKER__aw0242_Debug CMakeFiles/aw0242.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0242.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0242.dir\
   TARGET_FILE = aw0242.exe
   TARGET_IMPLIB = libaw0242.dll.a
-  TARGET_PDB = aw0242.exe.dbg
+  TARGET_PDB = aw0242.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0243
@@ -1287,6 +1398,8 @@ build CMakeFiles/aw0243.dir/AcWing/aw0243.cpp.obj: CXX_COMPILER__aw0243_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0243.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0243.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0243.dir\
+  TARGET_PDB = aw0243.pdb
 
 
 # =============================================================================
@@ -1302,9 +1415,10 @@ build aw0243.exe: CXX_EXECUTABLE_LINKER__aw0243_Debug CMakeFiles/aw0243.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0243.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0243.dir\
   TARGET_FILE = aw0243.exe
   TARGET_IMPLIB = libaw0243.dll.a
-  TARGET_PDB = aw0243.exe.dbg
+  TARGET_PDB = aw0243.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1291
@@ -1320,6 +1434,8 @@ build CMakeFiles/aw1291.dir/AcWing/aw1291.cpp.obj: CXX_COMPILER__aw1291_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1291.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1291.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1291.dir\
+  TARGET_PDB = aw1291.pdb
 
 
 # =============================================================================
@@ -1335,9 +1451,10 @@ build aw1291.exe: CXX_EXECUTABLE_LINKER__aw1291_Debug CMakeFiles/aw1291.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1291.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1291.dir\
   TARGET_FILE = aw1291.exe
   TARGET_IMPLIB = libaw1291.dll.a
-  TARGET_PDB = aw1291.exe.dbg
+  TARGET_PDB = aw1291.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw1129
@@ -1353,6 +1470,8 @@ build CMakeFiles/aw1129.dir/AcWing/aw1129.cpp.obj: CXX_COMPILER__aw1129_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw1129.dir
   OBJECT_FILE_DIR = CMakeFiles\aw1129.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw1129.dir\
+  TARGET_PDB = aw1129.pdb
 
 
 # =============================================================================
@@ -1368,9 +1487,10 @@ build aw1129.exe: CXX_EXECUTABLE_LINKER__aw1129_Debug CMakeFiles/aw1129.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw1129.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw1129.dir\
   TARGET_FILE = aw1129.exe
   TARGET_IMPLIB = libaw1129.dll.a
-  TARGET_PDB = aw1129.exe.dbg
+  TARGET_PDB = aw1129.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0905
@@ -1386,6 +1506,8 @@ build CMakeFiles/aw0905.dir/AcWing/aw0905.cpp.obj: CXX_COMPILER__aw0905_Debug D$
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0905.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0905.dir\AcWing
+  TARGET_COMPILE_PDB = CMakeFiles\aw0905.dir\
+  TARGET_PDB = aw0905.pdb
 
 
 # =============================================================================
@@ -1401,9 +1523,10 @@ build aw0905.exe: CXX_EXECUTABLE_LINKER__aw0905_Debug CMakeFiles/aw0905.dir/AcWi
   OBJECT_DIR = CMakeFiles\aw0905.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0905.dir\
   TARGET_FILE = aw0905.exe
   TARGET_IMPLIB = libaw0905.dll.a
-  TARGET_PDB = aw0905.exe.dbg
+  TARGET_PDB = aw0905.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ac0908
@@ -1419,6 +1542,8 @@ build CMakeFiles/ac0908.dir/ACM/ac0908.cpp.obj: CXX_COMPILER__ac0908_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ac0908.dir
   OBJECT_FILE_DIR = CMakeFiles\ac0908.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\ac0908.dir\
+  TARGET_PDB = ac0908.pdb
 
 
 # =============================================================================
@@ -1434,9 +1559,10 @@ build ac0908.exe: CXX_EXECUTABLE_LINKER__ac0908_Debug CMakeFiles/ac0908.dir/ACM/
   OBJECT_DIR = CMakeFiles\ac0908.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\ac0908.dir\
   TARGET_FILE = ac0908.exe
   TARGET_IMPLIB = libac0908.dll.a
-  TARGET_PDB = ac0908.exe.dbg
+  TARGET_PDB = ac0908.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aw0906
@@ -1452,6 +1578,8 @@ build CMakeFiles/aw0906.dir/ACM/aw0906.cpp.obj: CXX_COMPILER__aw0906_Debug D$:/C
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\aw0906.dir
   OBJECT_FILE_DIR = CMakeFiles\aw0906.dir\ACM
+  TARGET_COMPILE_PDB = CMakeFiles\aw0906.dir\
+  TARGET_PDB = aw0906.pdb
 
 
 # =============================================================================
@@ -1467,9 +1595,10 @@ build aw0906.exe: CXX_EXECUTABLE_LINKER__aw0906_Debug CMakeFiles/aw0906.dir/ACM/
   OBJECT_DIR = CMakeFiles\aw0906.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aw0906.dir\
   TARGET_FILE = aw0906.exe
   TARGET_IMPLIB = libaw0906.dll.a
-  TARGET_PDB = aw0906.exe.dbg
+  TARGET_PDB = aw0906.pdb
 
 
 #############################################
@@ -1588,14 +1717,14 @@ build all: phony poj1163.exe aw0895.exe test02.exe oj1782.exe aw1100.exe aw0099.
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake: phony
+build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/ROCMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2021.3.1/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake: phony
 
 
 #############################################

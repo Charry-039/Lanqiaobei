@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d936d6d-1912-4070-83f7-be0175467ac6" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a5f5ecdf-4353-4888-afc7-61f11edce896" />
+        <option name="url" value="git@github.com:Charry-039/Lanqiaobei.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/stdio.h" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="22dh9sA3QZG6RYLxseGvqhEO4Ej" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/Typora_Documents" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="structure.view.defaults.are.configured" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ClionProjects\AcWing" />
+      <recent name="D:\ClionProjects\ACM\Model" />
+      <recent name="D:\ClionProjects\ACM" />
+      <recent name="D:\ClionProjects\ACM\ZIMEOJ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ac0908">
+    <configuration name="Main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="Main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="Main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ac0908" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="ac0908" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="ac0908">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0099" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0099" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0099">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0154" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0154" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0154">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0188" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0188" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0188">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0196" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0196" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0196">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0241" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0241" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0241">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0242" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0242" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0242">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0243" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0243" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0243">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0423" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0423" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0423">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0797" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0797" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0797">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0802" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0802" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0802">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0895" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0895" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0895">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0905" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0905" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0905">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0906" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0906" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0906">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1014" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1014" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1014">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1015" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1015" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1015">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1017" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1017" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1017">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1018" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1018" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1018">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1022" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1022" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1022">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1024" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1024" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1024">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1076" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1076" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1076">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1097" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1097" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1097">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1098" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1098" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1098">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1100" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1100" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1100">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1106" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1106" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1106">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1116" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1116" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1116">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1129" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1129" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1129">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1289" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1289" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1289">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1290" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1290" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1290">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1291" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1291" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1291">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1292" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1292" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1292">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw1293" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw1293" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw1293">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj1782" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="oj1782" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="oj1782">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1144" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="p1144" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="p1144">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1290" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="p1290" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="p1290">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1305" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="p1305" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="p1305">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p4913" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="p4913" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="p4913">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poj1163" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="poj1163" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="poj1163">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="test01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="test01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="test02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="test02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="test03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="test03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wa0242" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="wa0242" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="wa0242">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ac0908" />
+      <item itemvalue="CMake Application.aw0099" />
+      <item itemvalue="CMake Application.aw0154" />
+      <item itemvalue="CMake Application.aw0188" />
+      <item itemvalue="CMake Application.aw0196" />
+      <item itemvalue="CMake Application.aw0241" />
+      <item itemvalue="CMake Application.aw0242" />
+      <item itemvalue="CMake Application.aw0243" />
+      <item itemvalue="CMake Application.aw0423" />
+      <item itemvalue="CMake Application.aw0797" />
+      <item itemvalue="CMake Application.aw0802" />
+      <item itemvalue="CMake Application.aw0895" />
+      <item itemvalue="CMake Application.aw0905" />
+      <item itemvalue="CMake Application.aw0906" />
+      <item itemvalue="CMake Application.aw1014" />
+      <item itemvalue="CMake Application.aw1015" />
+      <item itemvalue="CMake Application.aw1017" />
+      <item itemvalue="CMake Application.aw1018" />
+      <item itemvalue="CMake Application.aw1022" />
+      <item itemvalue="CMake Application.aw1024" />
+      <item itemvalue="CMake Application.aw1076" />
+      <item itemvalue="CMake Application.aw1097" />
+      <item itemvalue="CMake Application.aw1098" />
+      <item itemvalue="CMake Application.aw1100" />
+      <item itemvalue="CMake Application.aw1106" />
+      <item itemvalue="CMake Application.aw1116" />
+      <item itemvalue="CMake Application.aw1129" />
+      <item itemvalue="CMake Application.aw1289" />
+      <item itemvalue="CMake Application.aw1290" />
+      <item itemvalue="CMake Application.aw1291" />
+      <item itemvalue="CMake Application.aw1292" />
+      <item itemvalue="CMake Application.aw1293" />
+      <item itemvalue="CMake Application.Main" />
+      <item itemvalue="CMake Application.oj1782" />
+      <item itemvalue="CMake Application.p1144" />
+      <item itemvalue="CMake Application.p1290" />
+      <item itemvalue="CMake Application.p1305" />
+      <item itemvalue="CMake Application.p4913" />
+      <item itemvalue="CMake Application.poj1163" />
+      <item itemvalue="CMake Application.test01" />
+      <item itemvalue="CMake Application.test02" />
+      <item itemvalue="CMake Application.test03" />
+      <item itemvalue="CMake Application.wa0242" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d936d6d-1912-4070-83f7-be0175467ac6" name="Changes" comment="" />
+      <created>1640173224190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640173224190</updated>
+      <workItem from="1640173232267" duration="133000" />
+      <workItem from="1640173375980" duration="90000" />
+      <workItem from="1640269279358" duration="83000" />
+      <workItem from="1640269371460" duration="21000" />
+      <workItem from="1640269403158" duration="52000" />
+      <workItem from="1640269469065" duration="167000" />
+      <workItem from="1640440306145" duration="1958000" />
+      <workItem from="1641091561346" duration="41000" />
+      <workItem from="1642170008966" duration="41000" />
+      <workItem from="1642170063926" duration="5762000" />
+      <workItem from="1642240617940" duration="30000" />
+      <workItem from="1642240659472" duration="1443000" />
+      <workItem from="1643883323960" duration="585000" />
+      <workItem from="1644045613561" duration="478000" />
+      <workItem from="1644297502636" duration="3084000" />
+      <workItem from="1644561938277" duration="3431000" />
+      <workItem from="1644566698065" duration="99000" />
+      <workItem from="1644566810812" duration="79000" />
+      <workItem from="1644566902957" duration="87000" />
+      <workItem from="1644566999447" duration="517000" />
+      <workItem from="1644567568696" duration="4575000" />
+      <workItem from="1644644615619" duration="1269000" />
+      <workItem from="1645599030627" duration="430000" />
+      <workItem from="1645704559374" duration="4536000" />
+      <workItem from="1645789951830" duration="4059000" />
+      <workItem from="1645957145746" duration="4286000" />
+      <workItem from="1646569023208" duration="1084000" />
+      <workItem from="1646579893487" duration="731000" />
+      <workItem from="1646651940726" duration="442000" />
+      <workItem from="1646746836546" duration="1925000" />
+      <workItem from="1646981460083" duration="1204000" />
+      <workItem from="1646984034365" duration="144000" />
+      <workItem from="1646987814865" duration="1466000" />
+      <workItem from="1647146730097" duration="2992000" />
+      <workItem from="1647150364759" duration="1091000" />
+      <workItem from="1647164567420" duration="19000" />
+      <workItem from="1647246235988" duration="253000" />
+      <workItem from="1647341749863" duration="1168000" />
+      <workItem from="1647390324122" duration="626000" />
+      <workItem from="1647431565879" duration="24000" />
+      <workItem from="1647431635972" duration="124000" />
+      <workItem from="1647586948048" duration="1164000" />
+      <workItem from="1647849700877" duration="95000" />
+      <workItem from="1647867482231" duration="536000" />
+      <workItem from="1647922690516" duration="843000" />
+      <workItem from="1647960928815" duration="302000" />
+      <workItem from="1648000307930" duration="9333000" />
+      <workItem from="1648031820414" duration="5123000" />
+      <workItem from="1648093767283" duration="4753000" />
+      <workItem from="1648124306483" duration="7573000" />
+      <workItem from="1648182120924" duration="6000" />
+      <workItem from="1648200659396" duration="105000" />
+      <workItem from="1648204235133" duration="1940000" />
+      <workItem from="1648270339930" duration="6777000" />
+      <workItem from="1648299640830" duration="3840000" />
+      <workItem from="1648351391734" duration="919000" />
+      <workItem from="1648353531982" duration="1810000" />
+      <workItem from="1648376200614" duration="6289000" />
+      <workItem from="1648460479164" duration="7211000" />
+      <workItem from="1648548321212" duration="8612000" />
+      <workItem from="1648642818468" duration="5664000" />
+      <workItem from="1648701151766" duration="1401000" />
+      <workItem from="1648710966784" duration="3577000" />
+      <workItem from="1648736627248" duration="602000" />
+      <workItem from="1648791784864" duration="4000" />
+      <workItem from="1648793385104" duration="7000" />
+      <workItem from="1648809745398" duration="1943000" />
+      <workItem from="1648815587174" duration="224000" />
+      <workItem from="1648825350831" duration="1378000" />
+      <workItem from="1648965911128" duration="8319000" />
+      <workItem from="1649048368459" duration="8730000" />
+      <workItem from="1649061727790" duration="2675000" />
+      <workItem from="1649071205601" duration="5516000" />
+      <workItem from="1649230429558" duration="8713000" />
+      <workItem from="1649302323264" duration="1783000" />
+      <workItem from="1649409514931" duration="666000" />
+      <workItem from="1649431057745" duration="379000" />
+      <workItem from="1649486946839" duration="627000" />
+      <workItem from="1649494525162" duration="216000" />
+      <workItem from="1649495541825" duration="1223000" />
+      <workItem from="1649501386282" duration="1607000" />
+      <workItem from="1649591388180" duration="78000" />
+      <workItem from="1649598053123" duration="378000" />
+      <workItem from="1649645204469" duration="34000" />
+      <workItem from="1649645407098" duration="618000" />
+      <workItem from="1649652276716" duration="664000" />
+      <workItem from="1649661721422" duration="1541000" />
+      <workItem from="1649669597615" duration="25000" />
+      <workItem from="1649726576573" duration="77000" />
+      <workItem from="1649842652691" duration="193000" />
+      <workItem from="1649942149531" duration="3326000" />
+      <workItem from="1649950773881" duration="859000" />
+      <workItem from="1649984213322" duration="973000" />
+      <workItem from="1649985275778" duration="1708000" />
+      <workItem from="1650101563163" duration="1118000" />
+      <workItem from="1650190287415" duration="3351000" />
+      <workItem from="1650196856309" duration="55000" />
+      <workItem from="1650208459131" duration="613000" />
+      <workItem from="1650276651080" duration="2341000" />
+      <workItem from="1650368434161" duration="59000" />
+      <workItem from="1650639858783" duration="336000" />
+      <workItem from="1650708294615" duration="1761000" />
+      <workItem from="1650769649923" duration="8974000" />
+      <workItem from="1650812250427" duration="73000" />
+      <workItem from="1650856584535" duration="1304000" />
+      <workItem from="1650861577380" duration="4059000" />
+      <workItem from="1650867925270" duration="5302000" />
+      <workItem from="1650883390059" duration="709000" />
+      <workItem from="1650894501593" duration="2763000" />
+      <workItem from="1650944871999" duration="6441000" />
+      <workItem from="1650958547393" duration="3277000" />
+      <workItem from="1651040463519" duration="5817000" />
+      <workItem from="1651047592816" duration="17330000" />
+      <workItem from="1651123070736" duration="8047000" />
+      <workItem from="1651294600102" duration="18651000" />
+      <workItem from="1651323034453" duration="3957000" />
+      <workItem from="1651327042717" duration="930000" />
+      <workItem from="1651327998893" duration="102000" />
+      <workItem from="1651328116230" duration="465000" />
+      <workItem from="1651328597790" duration="19425000" />
+      <workItem from="1651448888539" duration="6765000" />
+      <workItem from="1651474977133" duration="10000000" />
+      <workItem from="1651497298934" duration="99000" />
+      <workItem from="1651497566715" duration="700000" />
+      <workItem from="1651500740383" duration="1667000" />
+      <workItem from="1651569687218" duration="3870000" />
+      <workItem from="1651649243563" duration="1895000" />
+      <workItem from="1651753232010" duration="4000" />
+      <workItem from="1651831495919" duration="735000" />
+      <workItem from="1651837844519" duration="2198000" />
+      <workItem from="1651896019177" duration="1202000" />
+      <workItem from="1651902830612" duration="689000" />
+      <workItem from="1651928276694" duration="3918000" />
+      <workItem from="1651984819607" duration="1666000" />
+      <workItem from="1652004131000" duration="23000" />
+      <workItem from="1652011555012" duration="956000" />
+      <workItem from="1652092895828" duration="2369000" />
+      <workItem from="1652102028255" duration="920000" />
+      <workItem from="1652154175291" duration="175000" />
+      <workItem from="1652155061631" duration="1861000" />
+      <workItem from="1652176452118" duration="7523000" />
+      <workItem from="1652245087925" duration="3554000" />
+      <workItem from="1652251918172" duration="1234000" />
+      <workItem from="1652263932838" duration="3975000" />
+      <workItem from="1652272747722" duration="2411000" />
+      <workItem from="1652340228373" duration="10611000" />
+      <workItem from="1652404321377" duration="1993000" />
+      <workItem from="1652457617962" duration="1058000" />
+      <workItem from="1652525225400" duration="1207000" />
+      <workItem from="1652586179675" duration="1363000" />
+      <workItem from="1652593079975" duration="220000" />
+      <workItem from="1652594916156" duration="311000" />
+      <workItem from="1652596658930" duration="6828000" />
+      <workItem from="1652880100561" duration="4294000" />
+      <workItem from="1652939882576" duration="4177000" />
+      <workItem from="1652957138848" duration="617000" />
+      <workItem from="1652960401516" duration="6655000" />
+      <workItem from="1653019702220" duration="804000" />
+      <workItem from="1653022024256" duration="2044000" />
+      <workItem from="1653024706091" duration="15292000" />
+      <workItem from="1653056905055" duration="2380000" />
+      <workItem from="1653118124083" duration="5624000" />
+      <workItem from="1653196989177" duration="1298000" />
+      <workItem from="1653297985695" duration="6532000" />
+      <workItem from="1653437882907" duration="864000" />
+      <workItem from="1653453583858" duration="1305000" />
+      <workItem from="1653659372630" duration="1558000" />
+      <workItem from="1653661075496" duration="117000" />
+      <workItem from="1653666845390" duration="4363000" />
+      <workItem from="1653713125923" duration="4098000" />
+      <workItem from="1653727275877" duration="410000" />
+      <workItem from="1653727781749" duration="21000" />
+      <workItem from="1653728034983" duration="332000" />
+      <workItem from="1653728409617" duration="1392000" />
+      <workItem from="1653807162777" duration="1602000" />
+      <workItem from="1653818312544" duration="1735000" />
+      <workItem from="1653920120955" duration="1189000" />
+      <workItem from="1653995857511" duration="1190000" />
+      <workItem from="1654081170170" duration="3488000" />
+      <workItem from="1654258127157" duration="9000" />
+      <workItem from="1654267675131" duration="4103000" />
+      <workItem from="1654322340537" duration="7835000" />
+      <workItem from="1654334523870" duration="11550000" />
+      <workItem from="1654349836601" duration="1061000" />
+      <workItem from="1654405336733" duration="3879000" />
+      <workItem from="1654476060308" duration="101000" />
+      <workItem from="1654515873723" duration="1497000" />
+      <workItem from="1654527615599" duration="3892000" />
+      <workItem from="1654662185763" duration="1148000" />
+      <workItem from="1654735879444" duration="2121000" />
+      <workItem from="1654743763866" duration="666000" />
+      <workItem from="1654952254184" duration="992000" />
+      <workItem from="1655051166365" duration="2805000" />
+      <workItem from="1655095477928" duration="4704000" />
+      <workItem from="1655101533654" duration="3503000" />
+      <workItem from="1655131760631" duration="3556000" />
+      <workItem from="1655278896155" duration="869000" />
+      <workItem from="1655294048280" duration="4800000" />
+      <workItem from="1655612181604" duration="1553000" />
+      <workItem from="1655635025795" duration="641000" />
+      <workItem from="1655638720349" duration="124000" />
+      <workItem from="1655639566539" duration="6393000" />
+      <workItem from="1655699259730" duration="2742000" />
+      <workItem from="1655731463507" duration="55000" />
+      <workItem from="1655812405347" duration="1035000" />
+      <workItem from="1655873697495" duration="6849000" />
+      <workItem from="1655898675065" duration="442000" />
+      <workItem from="1655899130687" duration="213000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1655898989161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655898989161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="a" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

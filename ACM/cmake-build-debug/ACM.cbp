@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ACM"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_03">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_03"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_03/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_03/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Main">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/Main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 Main"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Main/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/Main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 Main/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Factorial_01">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/Factorial_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 Factorial_01"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Factorial_01/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/Factorial_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 Factorial_01/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test01">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/test01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 test01"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test01/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/test01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 test01/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oj1183">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/oj1183.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 oj1183"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oj1183/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/oj1183.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 oj1183/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_01">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_01"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_01/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_01/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-update-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_02">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_02"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_02/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_02/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_quanpailie">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_quanpailie.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_quanpailie"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DFS_quanpailie/fast">
+				<Option output="D:/ClionProjects/ACM/cmake-build-debug/DFS_quanpailie.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 DFS_quanpailie/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/ClionProjects/ACM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/ClionProjects/ACM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/ClionProjects/ACM/Main.cpp">
+			<Option target="Main"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/Model/DFS/DFS_01.cpp">
+			<Option target="DFS_01"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/Model/DFS/DFS_02.cpp">
+			<Option target="DFS_02"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/Model/DFS/DFS_03.cpp">
+			<Option target="DFS_03"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/Model/DFS/DFS_quanpailie.cpp">
+			<Option target="DFS_quanpailie"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/Model/Factorial_01.cpp">
+			<Option target="Factorial_01"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/ZIMEOJ/oj1183.cpp">
+			<Option target="oj1183"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/test01.cpp">
+			<Option target="test01"/>
+		</Unit>
+		<Unit filename="D:/ClionProjects/ACM/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

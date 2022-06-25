@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="ACM" targetName="aw0196" />
+      <config projectName="ACM" targetName="aw1022" />
+      <config projectName="ACM" targetName="p1290" />
+      <config projectName="ACM" targetName="aw0099" />
+      <config projectName="ACM" targetName="aw0154" />
+      <config projectName="ACM" targetName="aw1100" />
+      <config projectName="ACM" targetName="aw1024" />
+      <config projectName="ACM" targetName="aw1289" />
+      <config projectName="ACM" targetName="oj1782" />
+      <config projectName="ACM" targetName="aw0895" />
+      <config projectName="ACM" targetName="Main" />
+      <config projectName="ACM" targetName="p1305" />
+      <config projectName="ACM" targetName="aw0797" />
+      <config projectName="ACM" targetName="aw1106" />
+      <config projectName="ACM" targetName="aw1129" />
+      <config projectName="ACM" targetName="p1144" />
+      <config projectName="ACM" targetName="test02" />
+      <config projectName="ACM" targetName="test01" />
+      <config projectName="ACM" targetName="aw0913" />
+      <config projectName="ACM" targetName="test03" />
+      <config projectName="ACM" targetName="aw1097" />
+      <config projectName="ACM" targetName="aw1076" />
+      <config projectName="ACM" targetName="aw1098" />
+      <config projectName="ACM" targetName="aw0241" />
+      <config projectName="ACM" targetName="aw0242" />
+      <config projectName="ACM" targetName="wa0242" />
+      <config projectName="ACM" targetName="aw0188" />
+      <config projectName="ACM" targetName="aw0243" />
+      <config projectName="ACM" targetName="aw1014" />
+      <config projectName="ACM" targetName="aw1015" />
+      <config projectName="ACM" targetName="aw0125" />
+      <config projectName="ACM" targetName="aw1290" />
+      <config projectName="ACM" targetName="aw1291" />
+      <config projectName="ACM" targetName="aw1292" />
+      <config projectName="ACM" targetName="p4913" />
+      <config projectName="ACM" targetName="aw1293" />
+      <config projectName="ACM" targetName="aw0905" />
+      <config projectName="ACM" targetName="aw0906" />
+      <config projectName="ACM" targetName="poj1163" />
+      <config projectName="ACM" targetName="aw0907" />
+      <config projectName="ACM" targetName="aw0423" />
+      <config projectName="ACM" targetName="aw1017" />
+      <config projectName="ACM" targetName="aw1116" />
+      <config projectName="ACM" targetName="aw0148" />
+      <config projectName="ACM" targetName="aw0104" />
+      <config projectName="ACM" targetName="aw1018" />
+      <config projectName="ACM" targetName="aw0802" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -9,7 +57,115 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d936d6d-1912-4070-83f7-be0175467ac6" name="Changes" comment="first commit" />
+    <list default="true" id="0d936d6d-1912-4070-83f7-be0175467ac6" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/AcWing/aw0104.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/aw0125.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/aw0148.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/aw0907.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AcWing/aw0913.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/.idea/ACM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Model/DFS.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Model/Dijkstra.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Model/Factorial_01.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/Model/spfa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/ZIMEOJ/oj1147.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ZIMEOJ/oj1147.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/ac0908.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/aw0906.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AcWing/aw0906.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d9b84abe444d049d941d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-14f2921a6f190d425dc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-397d2c367fe03ca55a60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/index-2022-02-11T08-17-35-0442.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-DFS_01-Debug-bbb9586f8386cb7f2d2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-DFS_02-Debug-5d8ee3202983507d1349.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-DFS_03-Debug-ab9c4513c19fd8123c34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-DFS_quanpailie-Debug-99572bc48ea577cc85d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-Factorial_01-Debug-5238390df0c9823bcda4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-Main-Debug-52878f7a2a771745420c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-oj1183-Debug-eed4f0c76a2dca07de3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-test01-Debug-1d688e655047383bb286.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/target-test02-Debug-f95e844d853f13f26aac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-9e7840ea726372c3e94f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/ACM.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/CMakeFiles/test02.dir/test02.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/DFS_01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/DFS_02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/DFS_03.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/DFS_quanpailie.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/Factorial_01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/Main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/oj1183.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/test01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/cmake-build-debug/test02.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/oj1782.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ZIMEOJ/oj1782.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/oj1782.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/p1052.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Luogu/p1052.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/p1305.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Luogu/p1305.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/p4913.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Luogu/p4913.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/test01.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/test02.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test02.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM/test03.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test03.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcWing/aw1291.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poj/poj1163.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test01.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6d859a87165f15538e36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-67abdaad7f320d4a15b5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-06-22T12-02-27-0849.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Main-Debug-5503a8af6a0198fd705b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ac0908-Debug-d828cec774eb60c43bcb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aw0906-Debug-e22bd60527c23c83b241.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-oj1782-Debug-337ddb7c81e86771285c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-p1305-Debug-bd23ec08544e20ec2efb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-p4913-Debug-6c7083bdc7a079133d54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-test01-Debug-5adef5a3c2bd58f1790d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-test02-Debug-5e34fd30779692f3af63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-test03-Debug-1cf239f3d7d9812ae787.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/aw0906.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/aw0906.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test01.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +174,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
@@ -50,6 +207,9 @@
     <option name="minorVersion" value="3.1" />
   </component>
   <component name="ProjectId" id="22dh9sA3QZG6RYLxseGvqhEO4Ej" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -65,7 +225,7 @@
     <property name="cmake.loaded.for.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/Typora_Documents" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="structure.view.defaults.are.configured" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -73,13 +233,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ClionProjects\AcWing" />
-      <recent name="D:\ClionProjects\ACM\Model" />
-      <recent name="D:\ClionProjects\ACM" />
+      <recent name="D:\ClionProjects" />
       <recent name="D:\ClionProjects\ACM\ZIMEOJ" />
+      <recent name="D:\ClionProjects\Test" />
+      <recent name="D:\ClionProjects\Luogu" />
+      <recent name="D:\ClionProjects\AcWing" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.ac0908">
+  <component name="RunManager" selected="CMake Application.aw0104">
     <configuration name="Main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="Main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="Main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -90,12 +251,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ac0908" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="ac0908" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="ac0908">
+    <configuration name="aw0099" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0099" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0099">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aw0099" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0099" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0099">
+    <configuration name="aw0104" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0104" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0104">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0125" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0125" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0125">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0148" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0148" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0148">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -156,6 +327,16 @@
       </method>
     </configuration>
     <configuration name="aw0906" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0906" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0906">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0907" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0907" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0907">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aw0913" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ACM" TARGET_NAME="aw0913" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ACM" RUN_TARGET_NAME="aw0913">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -301,8 +482,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.ac0908" />
       <item itemvalue="CMake Application.aw0099" />
+      <item itemvalue="CMake Application.aw0104" />
+      <item itemvalue="CMake Application.aw0125" />
+      <item itemvalue="CMake Application.aw0148" />
       <item itemvalue="CMake Application.aw0154" />
       <item itemvalue="CMake Application.aw0188" />
       <item itemvalue="CMake Application.aw0196" />
@@ -315,6 +498,8 @@
       <item itemvalue="CMake Application.aw0895" />
       <item itemvalue="CMake Application.aw0905" />
       <item itemvalue="CMake Application.aw0906" />
+      <item itemvalue="CMake Application.aw0907" />
+      <item itemvalue="CMake Application.aw0913" />
       <item itemvalue="CMake Application.aw1014" />
       <item itemvalue="CMake Application.aw1015" />
       <item itemvalue="CMake Application.aw1017" />
@@ -561,7 +746,9 @@
       <workItem from="1655812405347" duration="1035000" />
       <workItem from="1655873697495" duration="6849000" />
       <workItem from="1655898675065" duration="442000" />
-      <workItem from="1655899130687" duration="213000" />
+      <workItem from="1655899130687" duration="11087000" />
+      <workItem from="1656065512908" duration="13886000" />
+      <workItem from="1656149113540" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655898989161</created>
@@ -570,7 +757,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655898989161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1655899486356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655899486356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1655899630859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655899630859</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1655899649352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655899649352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +802,13 @@
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="a" language="ObjectiveC" />
+        <watch expression="s" language="ObjectiveC" />
+        <watch expression="t" language="ObjectiveC" />
+        <watch expression="n" language="ObjectiveC" />
+        <watch expression="range" language="ObjectiveC" />
+        <watch expression="j" language="ObjectiveC" />
+        <watch expression="r" language="ObjectiveC" />
+        <watch expression="q" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
